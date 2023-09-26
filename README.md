@@ -1,3 +1,5 @@
+### This SDK is for analyzing FBX data from Webcam Motion Capture app (https://webcammotioncapture.info/index.php)
+
 # FBX Python SDK for Python3.x
 language: English / 中文(Chinese)
 
